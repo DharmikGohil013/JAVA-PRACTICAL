@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 class complex{
@@ -46,7 +45,6 @@ class pra15{
         {
             case 1:
             {
-                
                 System.out.println("Sum is: - "+obj11.sum());
                 break;
             }
